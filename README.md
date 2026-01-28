@@ -10,7 +10,7 @@
 references from a PDF, identifying key metadata, querying authoritative databases, and
 generating a structured validation report. The system addresses a growing problem: AI-
 generated citations often contain fabricated or partially incorrect information. Kilbreth’s Pig
-acts as a filter—much like the pig in the family story that inspired the name—sorting valuable
+acts as a filter—much like the pig in the family story that inspired the program—sorting valuable
 information from slop.
       </p>
     </td>
