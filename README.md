@@ -27,3 +27,24 @@ This document outlines the full architecture goals of the system, including thre
 
 All options rely on a shared core Python library that performs deterministic, API-driven
 validation. As a founding member of Boondoggle Research, we will see how far we get.
+
+2. Introduction
+AI tools increasingly generate citations that appear plausible but are entirely fabricated. These
+hallucinated references pose risks to academic integrity, peer review, and scientific
+communication. Kilbreth’s Pig is designed to mitigate this problem by validating citations
+against real-world data sources such as Crossref, PubMed, and arXiv.
+The system is modular, extensible, and deployable in multiple environments. This document
+describes the architecture, deployment options, and technical requirements for the project.
+
+3. Core Python Library Architecture
+The Python package kilbreths_pig (imported as kp) is the foundation of all deployment models.
+It provides deterministic, API-driven citation validation.
+
+3.1 Package Structure
+kp/
+__init__.py
+pdf.py
+bibliography.py
+search.py
+validate.py
+report.py
