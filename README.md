@@ -4,7 +4,6 @@
       <img src="logo.png" alt="Kilbreth's Pig logo" width="100%">
     </td>
     <td width="70%">
-      <h1>Kilbreth's Pig</h1>
       <p>
         Kilbreth’s Pig is a Python-based system designed to validate academic citations by extracting
 references from a PDF, identifying key metadata, querying authoritative databases, and
