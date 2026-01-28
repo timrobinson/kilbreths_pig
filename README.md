@@ -28,7 +28,7 @@ This document outlines the full architecture goals of the system, including thre
 All options rely on a shared core Python library that performs deterministic, API-driven
 validation. As a founding member of Boondoggle Research, we will see how far we get.
 
-2. Introduction
+### Introduction
 AI tools increasingly generate citations that appear plausible but are entirely fabricated. These
 hallucinated references pose risks to academic integrity, peer review, and scientific
 communication. Kilbreth’s Pig is designed to mitigate this problem by validating citations
