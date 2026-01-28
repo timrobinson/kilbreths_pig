@@ -84,6 +84,6 @@ report.py
 
 - Determines match status
 #### report.py
-- Builds structured JSON reports
+- Builds structured JSON or pdf reports (see pdf example)
 
 - Generates human-readable summaries
