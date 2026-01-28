@@ -58,32 +58,32 @@ report.py
 
 ### Module Responsibilities
 #### pdf.py
- Extracts text from PDF files
+- Extracts text from PDF files
 
- Handles page iteration and text normalization
+- Handles page iteration and text normalization
 #### bibliography.py
- Locates the References/Bibliography section
+- Locates the References/Bibliography section
 
- Splits into individual citation entries
+- Splits into individual citation entries
 
- Extracts key fields (DOI, year, title, authors)
+- Extracts key fields (DOI, year, title, authors)
 #### search.py
- Queries authoritative external APIs
+- Queries authoritative external APIs
 
-o Crossref
+- Crossref
 
-o PubMed (optional)
+- PubMed (optional)
 
-o arXiv (optional)
+- arXiv (optional)
 
- Returns structured metadata
+- Returns structured metadata
 #### validate.py
- Compares citation fields to retrieved metadata
+- Compares citation fields to retrieved metadata
 
- Computes similarity scores
+- Computes similarity scores
 
- Determines match status
+- Determines match status
 #### report.py
- Builds structured JSON reports
+- Builds structured JSON reports
 
- Generates human-readable summaries
+- Generates human-readable summaries
