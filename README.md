@@ -1,6 +1,3 @@
-# kilbreths_pig
-Verifying references in technical articles
-
 <table>
   <tr>
     <td width="30%">
