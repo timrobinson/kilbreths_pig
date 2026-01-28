@@ -36,15 +36,22 @@ against real-world data sources such as Crossref, PubMed, and arXiv.
 The system is modular, extensible, and deployable in multiple environments. This document
 describes the architecture, deployment options, and technical requirements for the project.
 
-3. Core Python Library Architecture
-The Python package kilbreths_pig (imported as kp) is the foundation of all deployment models.
+### Core Python Library Architecture
+The Python package kilbreths_pig (eventually to be imported as kp) is the foundation of all deployment models.
 It provides deterministic, API-driven citation validation.
 
-3.1 Package Structure
+### Package Structure
+
 kp/
+
 __init__.py
+
 pdf.py
+
 bibliography.py
+
 search.py
+
 validate.py
+
 report.py
