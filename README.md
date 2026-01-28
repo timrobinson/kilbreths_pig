@@ -26,4 +26,4 @@ This document outlines the full architecture goals of the system, including thre
 - A GitHub Actions–driven workflow for reproducible, version-controlled validation
 
 All options rely on a shared core Python library that performs deterministic, API-driven
-validation.
+validation. As a founding member of Boondoggle Research, we will see how far we get.
