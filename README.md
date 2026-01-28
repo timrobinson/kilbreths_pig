@@ -20,7 +20,10 @@ information from slop.
 This document outlines the full architecture goals of the system, including three deployment options:
 
  A fast, interactive web interface using GitHub Pages and an external backend
+
  A fully in-browser version using WebAssembly-based Python
+
  A GitHub Actions–driven workflow for reproducible, version-controlled validation
+
 All options rely on a shared core Python library that performs deterministic, API-driven
 validation.
