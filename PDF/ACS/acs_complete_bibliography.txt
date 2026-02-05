@@ -1,0 +1,109 @@
+(1) Xiang, M.; Lyu, D.; Qin, Y.; Chen, R.; Liu, L.; Men, Y.. Microstructure of bottlebrush poly(n-alkyl methacrylate)s beyond side chain packing. Polymer 2020, 210, 123034. DOI: 10.1016/j.polymer.2020.123034.
+
+(2) Zhang, Z.; Chen, M.; Schneider, I.; Liu, Y.; Liang, S.; Sun, S.; Koynov, K.; Butt, H. J.; Wu, S.. Long Alkyl Side Chains Simultaneously Improve Mechanical Robustness and Healing Ability of a Photoswitchable Polymer. Macromolecules 2020, 53 (19), 8562-8569. DOI: 10.1021/acs.macromol.0c01784.
+
+(3) Hempel, E.; Budde, H.; Höring, S.; Beiner, M.. On the crystallization behavior of frustrated alkyl groups in poly(n-octadecyl methacrylate). J. Non-crystalline Solid 2006, 352 (42-49), 5013-5020. DOI: 10.1016/j.jnoncrysol.2006.01.131.
+
+(4) Hyun, J.; Ma, H.; Banerjee, P.; Cole, J.; Gonsalves, K.; Chilkoti, A.. Micropatterns of a Cell-Adhesive Peptide on an Amphiphilic Comb Polymer Film. Langmuir 2002, 18 (8), 2975-2979. DOI: 10.1021/la015712x.
+
+(5) Zhang, M.; Estournès, C.; Bietsch, W.; Müller, A. H. E.. Superparamagnetic Hybrid Nanocylinders. Adv. Funct. Mater. 2004, 14 (9), 871-882. DOI: 10.1002/adfm.200400064.
+
+(6) Miyake, G. M.; Weitekamp, R. A.; Piunova, V. A.; Grubbs, R. H.. Synthesis of Isocyanate-Based Brush Block Copolymers and Their Rapid Self-Assembly to Infrared-Reflecting Photonic Crystals. J. Am. Chem. Soc. 2012, 134 (34), 14249-14254. DOI: 10.1021/ja306430k.
+
+(7) Runge, M. B.; Bowden, N. B.. Synthesis of High Molecular Weight Comb Block Copolymers and Their Assembly into Ordered Morphologies in the Solid State. J. Am. Chem. Soc. 2007, 129 (34), 10551-10560. DOI: 10.1021/ja072929q.
+
+(8) Yuan, J.; Xu, Y.; Walther, A.; Bolisetty, S.; Schumacher, M.; Schmalz, H.; Ballauff, M.; Müller, A. H. E.. Water-soluble organo-silica hybrid nanowires. Nat. Mater. 2008, 7 (9), 718-722. DOI: 10.1038/nmat2232.
+
+(9) Lee, J.; Kwak, G.. Extremely Softened Polyimides with Long, Branched Alkyl Side Chains: Shape Memory Characteristics and Anticounterfeiting Application. AC Appl. Polym. Mater. 2025, 7 (11), 7526-7534. DOI: 10.1021/acsapm.5c01168.
+
+(10) Zhou, J.; Turner, S. A.; Brosnan, S. M.; Li, Q.; Carrillo, J. M. Y.; Nykypanchuk, D.; Gang, O.; Ashby, V. S.; Dobrynin, A. V.; Sheiko, S. S.. Shapeshifting: Reversible Shape Memory in Semicrystalline Elastomers. Macromolecules 2014, 47 (5), 1768-1776. DOI: 10.1021/ma4023185.
+
+(11) Bandl, C.; Kern, W.; Schlögl, S.. Adhesives for “debonding-on-demand”: Triggered release mechanisms and typical applications. Int. J. Adhes. Adhes. 2020, 99, 102585. DOI: 10.1016/j.ijadhadh.2020.102585.
+
+(12) Yin, Q.; Manav, Y. A.; Wan, Y.; Davaji, B.; Bai, R.. Highly switchable and reversible soft sticky adhesives based on thermo-responsive phase separation. Extreme Mech. Lett. 2025, 75, 102293. DOI: 10.1016/j.eml.2025.102293.
+
+(13) Tan, D.; Xu, B.; Chung, K. Y.; Yang, Y.; Wang, Q.; Gao, Y.; Huang, J.. Self‐Adhesive, Detach‐on‐Demand, and Waterproof Hydrophobic Electronic Skins with Customized Functionality and Wearability. Adv. Funct. Mater. 2023, 34 (16). DOI: 10.1002/adfm.202311457.
+
+(14) Swanson, S.; Bashmail, R.; Fellin, C.; Luu, V.; Shires, N.; Cox, P.; Nelson, A.; MacKenzie, D.; Taroc, A. M.; Nelson, L.; Seibel, E.. Prototype Development of a Temperature-Sensitive High-Adhesion Medical Tape to Reduce Medical-Adhesive-Related Skin Injury and Improve Quality of Care. Int. J. Mol. Sci. 2022, 23 (13), 7164. DOI: 10.3390/ijms23137164.
+
+(15) Liu, R.; Swanson, S.; Huang, E.; Krejsa, M. R.; MacKenzie, J. D.; Kleweno, C. P.; Taroc, A. M.; Nelson, L. Y.; Seibel, E. J.. ThermoTape: A Temperature-Responsive Medical Adhesive Minimizing MARSI Risks With Adaptability Across Applications and Wear Durations. J. Med. Device 2025, 19 (3). DOI: 10.1115/1.4068595.
+
+(16) Fumarola, S.; Allaway, R.; Callaghan, R.; Collier, M.; Downie, F.; Geraghty, J.; Kiernan, S.; Spratt, F.; Bianchi, J.; Bethell, E.; Downe, A.; Griffin, J.; Hughes, M.; King, B.; LeBlanc, K.; Savine, L.; Stubbs, N.; Voegeli, D.. Overlooked and underestimated: medical adhesive-related skin injuries. J. Wound Care 2020, 29 (Sup3c), S1-S24. DOI: 10.12968/jowc.2020.29.sup3c.s1.
+
+(17) Swanson, S.; Luu, V.; Smith, R.; Gross, A.; Tudor, J.; MacKenzie, D.; Taroc, A. M.; Gow, K. W.; Nelson, L. Y.; Seibel, E. J.. A temperature-sensitive, high-adhesion medical tape: a comparative, single-blind clinical trial. J. Wound Care 2023, 32 (10), 665-675. DOI: 10.12968/jowc.2023.32.10.665.
+
+(18) Mess, A.; Vietzke, J. P.; Rapp, C.; Francke, W.. Qualitative Analysis of Tackifier Resins in Pressure Sensitive Adhesives Using Direct Analysis in Real Time Time-of-Flight Mass Spectrometry. Anal. Chem. 2011, 83 (19), 7323-7330. DOI: 10.1021/ac2011608.
+
+(19) Doi, T.; Takagi, H.; Shimizu, N.; Igarashi, N.; Sakurai, S.. Effects of drying temperature in solution coating process on microphase-separated structures in coated layers of pressure-sensitive adhesive composed of di- and triblock copolymer blends as revealed by small-angle X-ray scattering. Polymer 2019, 170, 211-221. DOI: 10.1016/j.polymer.2019.02.052.
+
+(20) Fernando, S.; Bhatia, S. R.. Scalable manufacturing of layered nanoparticle-polymer composite films through evaporative assembly. Colloid Interface Sci. Commun. 2025, 66, 100837. DOI: 10.1016/j.colcom.2025.100837.
+
+(21) Nwaneshiudu, A.; Kuschal, C.; Sakamoto, F. H.; Rox Anderson, R.; Schwarzenberger, K.; Young, R. C.. Introduction to Confocal Microscopy. J. Investig. Dermatol. 2012, 132 (12), 1-5. DOI: 10.1038/jid.2012.429.
+
+(22) St. Croix, C. M.; Shand, S. H.; Watkins, S. C.. Confocal Microscopy: Comparisons, Applications, and Problems. BioTechniques 2005, 39 (sup6). DOI: 10.2144/000112089.
+
+(23) Paddock, S. W.. Principles and Practices of Laser Scanning Confocal Microscopy. Mol. Biotechnol. 2000, 16 (2), 127-150. DOI: 10.1385/mb:16:2:127.
+
+(24) Kwon, J.; Jun, S. W.; Choi, S. I.; Mao, X.; Kim, J.; Koh, E. K.; Kim, Y. H.; Kim, S. K.; Hwang, D. Y.; Kim, C. S.; Lee, J.. FeSe quantum dots for in vivo multiphoton biomedical imaging. Sci. Adv. 2019, 5 (12). DOI: 10.1126/sciadv.aay0044.
+
+(25) Cauzzo, S.; Bruno, E.; Boulet, D.; Nazac, P.; Basile, M.; Callara, A. L.; Tozzi, F.; Ahluwalia, A.; Magliaro, C.; Danglot, L.; Vanello, N.. A modular framework for multi-scale tissue imaging and neuronal segmentation. Nat. Commun. 2024, 15 (1). DOI: 10.1038/s41467-024-48146-y.
+
+(26) Zhu, Y.; Hou, J.; Gray, D. M.; McDonald, T. O.; Dumanli, A. G.. Cation-induced morphological transitions and aggregation of thermoresponsive PNIPAM nanogels. Heliyon 2024, 10 (12), e32184. DOI: 10.1016/j.heliyon.2024.e32184.
+
+(27) Icha, J.; Böning, D.; Türschmann, P.. Precise and Dynamic Temperature Control in High-Resolution Microscopy with VAHEAT. Microsc. Today 2022, 30 (1), 34-41. DOI: 10.1017/s1551929521001553.
+
+(28) Helmchen, F.; Denk, W.. Deep tissue two-photon microscopy. Nat. Method 2005, 2 (12), 932-940. DOI: 10.1038/nmeth818.
+
+(29) Yang, X.; Jiang, Z.; Dai, J.; Fu, Q.; Pan, S.. Photoacoustic contrast agents: a review focusing on image-guided therapy. Nanoscale Horiz. 2025, 10 (7), 1285-1306. DOI: 10.1039/d4nh00395k.
+
+(30) Miki, K.; Kimura, A.; Oride, K.; Kuramochi, Y.; Matsuoka, H.; Harada, H.; Hiraoka, M.; Ohe, K.. High‐Contrast Fluorescence Imaging of Tumors In Vivo Using Nanoparticles of Amphiphilic Brush‐Like Copolymers Produced by ROMP. Angew. Chem. Int. Ed. 2011, 50 (29), 6567-6570. DOI: 10.1002/anie.201101005.
+
+(31) Miki, K.; Oride, K.; Kimura, A.; Kuramochi, Y.; Matsuoka, H.; Harada, H.; Hiraoka, M.; Ohe, K.. Influence of Side Chain Length on Fluorescence Intensity of ROMP‐Based Polymeric Nanoparticles and Their Tumor Specificity in In‐Vivo Tumor Imaging. Small 2011, 7 (24), 3536-3547. DOI: 10.1002/smll.201101637.
+
+(32) Hans Tromp, R.; van de Velde, F.; van Riel, J.; Paques, M.. Confocal scanning light microscopy (CSLM) on mixtures of gelatine and polysaccharides. Food Res. Int. 2001, 34 (10), 931-938. DOI: 10.1016/s0963-9969(01)00117-x.
+
+(33) Reisch, A.; Klymchenko, A. S.. Fluorescent Polymer Nanoparticles Based on Dyes: Seeking Brighter Tools for Bioimaging. Small 2016, 12 (15), 1968-1992. DOI: 10.1002/smll.201503396.
+
+(34) Chaudhuri, K.; Medhi, R.; Zhang, Z.; Cai, Z.; Ober, C. K.; Pham, J. T.. Visualizing Penetration of Fluorescent Dye through Polymer Coatings. Macromol. Rapid Commun. 2023, 44 (20). DOI: 10.1002/marc.202300304.
+
+(35) Nile, R.; Feng, S.; Cabello, M.; Wang, D.; Yang, S.; Jin, K.. Crystallization Behavior of Semicrystalline Polymers Characterized by an In Situ Fluorescence Technique and its Sensing Mechanism. Macromol. Chem. Phys. 2023, 224 (24). DOI: 10.1002/macp.202300230.
+
+(36) Ismael, R.; Schwander, H.; Hendrix, P.. Fluorescent Dyes and Pigments. Ullmann's Encycl. Ind. Chem. 2013. DOI: 10.1002/14356007.a11_279.pub2.
+
+(37) Usowicz, M. T.; Kelley, M. J.; Singer, K. D.; Duzhko, V. V.. Tailored One- and Two-Dimensional Self-Assembly of a Perylene Diimide Derivative in Organic Solvents. J. Phys. Chem. B 2011, 115 (32), 9703-9709. DOI: 10.1021/jp203703e.
+
+(38) Duarte, F.; Morice, K.; Ghanem, T.; Puchán Sánchez, D.; Blanchard, P.; S. B. Gomes, C.; Herrero, S.; Cabanetos, C.; Cuerva, C.; Luis Capelo-Martinez, J.; Lodeiro, C.. Harnessing liquid crystal attributes of near-unit photoluminescent benzothioxanthene photosensitizers: Photophysical profiling in solution, solid state, and polymer matrix embedding. J. Mol. Liq. 2024, 409, 125424. DOI: 10.1016/j.molliq.2024.125424.
+
+(39) Lim, S. D.; Svanevik, C. C.; Fauver, M. E.; Nelson, L. Y.; Taroc, A. M.; Emery, A. F.; Seibel, E. J.. Proof of Concept of a Surrogate High-Adhesion Medical Tape Using Photo-Thermal Release for Rapid and Less Painful Removal. J. Med. Device 2020, 14 (2). DOI: 10.1115/1.4045298.
+
+(40) Petersson, M.; Gustafson, I.; Stading, M.. Ageing of two petroleum waxes. J. Mater. Sci. 2008, 43 (6), 1859-1868. DOI: 10.1007/s10853-007-2416-x.
+
+(41) Haj-Shafiei, S.; Workman, B.; Trifkovic, M.; Mehrotra, A. K.. In-Situ Monitoring of Paraffin Wax Crystal Formation and Growth. Cryst. Growth andamp Des. 2019, 19 (5), 2830-2837. DOI: 10.1021/acs.cgd.9b00052.
+
+(42) Creton, C.; Ciccotti, M.. Fracture and adhesion of soft materials: a review. Rep. Prog. Phys. 2016, 79 (4), 046601. DOI: 10.1088/0034-4885/79/4/046601.
+
+(43) Gent, A. N.. Adhesion and Strength of Viscoelastic Solids. Is There a Relationship between Adhesion and Bulk Properties?. Langmuir 1996, 12 (19), 4492-4496. DOI: 10.1021/la950887q.
+
+(44) Gent, A. N.; Schultz, J.. Effect of Wetting Liquids on the Strength of Adhesion of Viscoelastic Material. J. Adhes. 1972, 3 (4), 281-294. DOI: 10.1080/00218467208072199.
+
+(45) Maugis, D.; Barquins, M.. Fracture mechanics and the adherence of viscoelastic bodies. J. Phys. D Appl. Phys. 1978, 11 (14), 1989-2023. DOI: 10.1088/0022-3727/11/14/011.
+
+(46) Villey, R.; Creton, C.; Cortet, P. P.; Dalbe, M. J.; Jet, T.; Saintyves, B.; Santucci, S.; Vanel, L.; Yarusso, D. J.; Ciccotti, M.. Rate-dependent elastic hysteresis during the peeling of pressure sensitive adhesives. Soft Matter 2015, 11 (17), 3480-3491. DOI: 10.1039/c5sm00260e.
+
+(47) Villey, R.; Cortet, P. P.; Creton, C.; Ciccotti, M.. In-situ measurement of the large strain response of the fibrillar debonding region during the steady peeling of pressure sensitive adhesives. Int. J. Fract. 2016, 204 (2), 175-190. DOI: 10.1007/s10704-016-0171-1.
+
+(48) Beiner, M.; Huth, H.. Nanophase separation and hindered glass transition in side-chain polymers. Nat. Mater. 2003, 2 (9), 595-599. DOI: 10.1038/nmat966.
+
+(49) Xia, W.; Song, J.; Hsu, D. D.; Keten, S.. Understanding the Interfacial Mechanical Response of Nanoscale Polymer Thin Films via Nanoindentation. Macromolecules 2016, 49 (10), 3810-3817. DOI: 10.1021/acs.macromol.6b00121.
+
+(50) Dokukin, M. E.; Sokolov, I.. On the Measurements of Rigidity Modulus of Soft Materials in Nanoindentation Experiments at Small Depth. Macromolecules 2012, 45 (10), 4277-4288. DOI: 10.1021/ma202600b.
+
+(51) Jackson, C. L.; Chanzy, H. D.; Booy, F. P.; Drake, B. J.; Tomalia, D. A.; Bauer, B. J.; Amis, E. J.. Visualization of Dendrimer Molecules by Transmission Electron Microscopy (TEM): Staining Methods and Cryo-TEM of Vitrified Solutions. Macromolecules 1998, 31 (18), 6259-6265. DOI: 10.1021/ma9806155.
+
+(52) Jinnai, H.; Spontak, R. J.; Nishi, T.. Transmission Electron Microtomography and Polymer Nanostructures. Macromolecules 2010, 43 (4), 1675-1688. DOI: 10.1021/ma902035p.
+
+(53) Korpanty, J.; Parent, L. R.; Hampu, N.; Weigand, S.; Gianneschi, N. C.. Thermoresponsive polymer assemblies via variable temperature liquid-phase transmission electron microscopy and small angle X-ray scattering. Nat. Commun. 2021, 12 (1). DOI: 10.1038/s41467-021-26773-z.
+
+(54) Prakash, K.; Diederich, B.; Heintzmann, R.; Schermelleh, L.. Super-resolution microscopy: a brief history and new avenues. Philos. Trans. R. Soc. Math. Phys. Eng. Sci. 2022, 380 (2220). DOI: 10.1098/rsta.2021.0110.
+
+(55) Yusoh, N. A.; Gill, M. R.; Tian, X.. Advancing super-resolution microscopy with metal complexes: functional imaging agents for nanoscale visualization. Chem. Soc. Rev. 2025, 54 (8), 3616-3646. DOI: 10.1039/d4cs01193g.
