@@ -10,7 +10,7 @@
       Given an ACS PDF or DOCX, the tool extracts bibliography entries, normalizes
       them to ACS conventions, enriches metadata via DOI and ISO-4 resolution,
       scores evidence consistency, and emits both a human-readable audit report
-      and machine-readable reference artifacts.
+      and machine-readable reference artifacts in accordance with the data flow chart below.
     </td>
   </tr>
 </table>
