@@ -1,4 +1,4 @@
-<table>
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td width="30%" align="center">
       <img src="logo.png" alt="Kilbreth's Pig" width="100%">
