@@ -4,7 +4,6 @@
       <img src="logo.png" alt="Kilbreth's Pig logo" width="100%">
     </td>
     <td width="70%">
-      <h1>Kilbreth's Pig</h1>
       <p>
         Kilbreth’s Pig is a Python-based system designed to validate academic citations by extracting
 references from a PDF, identifying key metadata, querying authoritative databases, and
@@ -28,7 +27,7 @@ This document outlines the full architecture goals of the system, including thre
 All options rely on a shared core Python library that performs deterministic, API-driven
 validation. As a founding member of Boondoggle Research, we will see how far we get.
 
-### Introduction
+## Introduction
 AI tools increasingly generate citations that appear plausible but are entirely fabricated. These
 hallucinated references pose risks to academic integrity, peer review, and scientific
 communication. Kilbreth’s Pig is designed to mitigate this problem by validating citations
@@ -36,11 +35,11 @@ against real-world data sources such as Crossref, PubMed, and arXiv.
 The system is modular, extensible, and deployable in multiple environments. This document
 describes the architecture, deployment options, and technical requirements for the project.
 
-### Core Python Library Architecture
+## Core Python Library Architecture
 The Python package kilbreths_pig (eventually to be imported as kp) is the foundation of all deployment models.
 It provides deterministic, API-driven citation validation.
 
-### Package Structure
+## Package Structure
 
 kp/
 
@@ -56,18 +55,18 @@ validate.py
 
 report.py
 
-### Module Responsibilities
-#### pdf.py
+## Module Responsibilities
+### pdf.py
 - Extracts text from PDF files
 
 - Handles page iteration and text normalization
-#### bibliography.py
+### bibliography.py
 - Locates the References/Bibliography section
 
 - Splits into individual citation entries
 
 - Extracts key fields (DOI, year, title, authors)
-#### search.py
+### search.py
 - Queries authoritative external APIs
 
 - Crossref
@@ -77,13 +76,13 @@ report.py
 - arXiv (optional)
 
 - Returns structured metadata
-#### validate.py
+### validate.py
 - Compares citation fields to retrieved metadata
 
 - Computes similarity scores
 
 - Determines match status
-#### report.py
+### report.py
 - Builds structured JSON or pdf reports (see pdf example)
 
 - Generates human-readable summaries
