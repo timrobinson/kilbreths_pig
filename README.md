@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="30%" align="center">
       <img src="logo.png" alt="Kilbreth's Pig" width="100%">
     </td>
     <td width="40%">
